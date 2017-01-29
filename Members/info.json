@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "NovaBot",
+    "INSTALL_MSG" : "Thank you for installing the Members cog",
+    "NAME" : "Members",
+    "SHORT" : "View Users",
+    "DESCRIPTION" : "View total number of users and bots online"
+}
