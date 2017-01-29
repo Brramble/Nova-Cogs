@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "NovaBot",
+    "INSTALL_MSG" : "Thank you for installing the Intro cog",
+    "NAME" : "Intro",
+    "SHORT" : "A >Intro command",
+    "DESCRIPTION" : "Edit the code to create an awesome embedded bot intro"
+}

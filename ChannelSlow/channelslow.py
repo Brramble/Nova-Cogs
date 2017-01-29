@@ -4,7 +4,7 @@ from .utils import checks
 import time
 
 
-class Admin:
+class SlowMode:
     def __init__(self, bot):
         self.bot = bot
         self.lastTimeTalkingMap = {}
@@ -73,4 +73,4 @@ class Admin:
 
 
 def setup(bot):
-    bot.add_cog(Admin(bot))
+    bot.add_cog(SlowMode(bot))

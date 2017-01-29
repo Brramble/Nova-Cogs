@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "NovaBot",
+    "INSTALL_MSG" : "Thank you for installing the ChannelSlow cog!",
+    "NAME" : "SlowMode",
+    "SHORT" : "Slow a channel",
+    "DESCRIPTION" : "Turn on slow mode for a channel"
+}
