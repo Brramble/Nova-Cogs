@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "NovaBot",
+    "INSTALL_MSG" : "Thank you for installing the ProfileImageEmbed cog",
+    "NAME" : "EmbedProfileImg",
+    "SHORT" : "Embed profile image",
+    "DESCRIPTION" : "Embed a selected users profile picture"
+}
